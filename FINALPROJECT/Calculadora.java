@@ -13,6 +13,12 @@ import javax.swing.border.*;
  *
  * @author nayra
  */
+/*Codifica un programa Java que visualice en pantalla una calculadora
+Dispondrá de las cuatro operaciones básicas y la posibilidad de transformar un número decimal a su correspondiente binario (tecla “BIN”).
+Admite el uso de decimales.
+El botón “CE” borra los datos actualmente en pantalla y comienza una nueva operación.
+El botón “=” completa la operación matemática, salvo la transformación a binario, que se realiza directamente sin necesidad de pulsar “=”.
+*/
 public class Calculadora {
     public static void main(String[] args) {
 		// TODO Auto-generated method stub
